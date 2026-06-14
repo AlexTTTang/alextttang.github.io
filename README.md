@@ -1,2 +1,30 @@
-# alextttang
-alextttang
+# Myself
+
+Myself project - Started on <26/04/2022>
+
+
+
+# Command to add remote
+
+* git remote add origin https://github.com/AlexTTTang/alextttang.github.io
+* git push -u origin master
+* git pull https://github.com/AlexTTTang/alextttang.github.io
+
+# Working on
+
+* Update profile
+
+# Version
+
+0.0.0 - Development In Progress
+
+
+
+# Things to note on release
+
+* Nothing
+
+# Link
+
+* https://alextttang.github.io/
+
